@@ -1,53 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55d39414-82c5-40fa-bf7a-097d37c6a500" name="Changes" comment="" />
+    <list default="true" id="aef3055f-dcf9-4292-ac41-9ae1796993ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2EWfX1i1z4hEYimxOuzOOcHd48U" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2DhvUpxd9bMb84IjOJtuoSKiOLo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/nitsa/Downloads/LGoodDatePicker-11.2.1.jar",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nitsa/Downloads/jdatepicker-1.3.4.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Java Final Project\java_final_project" />
-      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Java Final Project\java_final_project\.idea" />
+      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Final Project- Cost Manager\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Java Final Project\java_final_project\src\il\ac\shenkar\project\mvvm" />
-      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Java Final Project\java_final_project\src\il\ac\shenkar\project" />
-      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Java Final Project\java_final_project\src\il\ac\shenkar\project\mvvm\view" />
-      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Java Final Project\java_final_project\src\il" />
-      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Java Final Project\java_final_project\src" />
+      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Final Project- Cost Manager\src\il\ac\shenkar\project\mvvm\view" />
+      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Final Project- Cost Manager\src" />
+      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Final Project- Cost Manager\out" />
+      <recent name="C:\Users\nitsa\Desktop\Programming\Java\Final Project- Cost Manager\images" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="il.ac.shenkar.project.mvvm.view.il.ac.shenkar.project.mvvm.view.test" />
+      <recent name="il.ac.shenkar.project.mvvm.view" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="il.ac.shenkar.project.mvvm.ProgramDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ProgramDemo">
+    <configuration name="Desktop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.project.mvvm.view.Desktop" />
+      <module name="Final Project- Cost Manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="il.ac.shenkar.project.mvvm.view.il.ac.shenkar.project.mvvm.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.project.mvvm.view.Login" />
+      <module name="Final Project- Cost Manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="il.ac.shenkar.project.mvvm.view.il.ac.shenkar.project.mvvm.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="il.ac.shenkar.project.mvvm.ProgramDemo" />
-      <module name="java_final_project" />
+      <module name="Final Project- Cost Manager" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="il.ac.shenkar.project.mvvm.*" />
@@ -60,34 +107,65 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.il.ac.shenkar.project.mvvm.ProgramDemo" />
+        <item itemvalue="Application.ProgramDemo" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="55d39414-82c5-40fa-bf7a-097d37c6a500" name="Changes" comment="" />
-      <created>1662716296276</created>
+      <changelist id="aef3055f-dcf9-4292-ac41-9ae1796993ed" name="Changes" comment="" />
+      <created>1661164151636</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1662716296276</updated>
-      <workItem from="1662716297891" duration="3158000" />
+      <updated>1661164151636</updated>
+      <workItem from="1661164153387" duration="2608000" />
+      <workItem from="1661232001502" duration="42050000" />
+      <workItem from="1661421162079" duration="5293000" />
+      <workItem from="1661523894874" duration="12830000" />
+      <workItem from="1661662871886" duration="17253000" />
+      <workItem from="1661721922368" duration="416000" />
+      <workItem from="1661746925169" duration="601000" />
+      <workItem from="1661752843190" duration="21000" />
+      <workItem from="1661753108801" duration="171000" />
+      <workItem from="1661756095520" duration="14122000" />
+      <workItem from="1661840772665" duration="11274000" />
+      <workItem from="1661874390761" duration="1254000" />
+      <workItem from="1661922654534" duration="18189000" />
+      <workItem from="1662013106798" duration="23337000" />
+      <workItem from="1662642020068" duration="15247000" />
+      <workItem from="1662705762608" duration="31502000" />
+      <workItem from="1663001689779" duration="619000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/il/ac/shenkar/project/mvvm/view/Login.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/il/ac/shenkar/project/mvvm/view/AddNewExpense.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/il/ac/shenkar/project/mvvm/view/EditExpense.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Final_Project__Cost_Manager$ProgramDemo.ic" NAME="ProgramDemo Coverage Results" MODIFIED="1661801305592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>il.ac.shenkar.project.mvvm.*</FILTER>
+    </SUITE>
   </component>
 </project>
